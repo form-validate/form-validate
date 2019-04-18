@@ -1,0 +1,27 @@
+{
+  "name": "form-validate",
+  "version": "1.0.0",
+  "description": "表单验证",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/form-validate/form-validate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/form-validate/form-validate/issues"
+  },
+  "homepage": "https://github.com/form-validate/form-validate#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
